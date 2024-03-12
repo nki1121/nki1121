@@ -4,3 +4,5 @@
 3. The technologies I'm currently studying are React and Swift.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=nki1121&show_icons=true&locale=en&layout=compact)
+
+![](https://skillicons.dev/icons?i=html,css,js, javascirpt,typescript,c, java, python, flutter)
