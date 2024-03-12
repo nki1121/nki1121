@@ -1,4 +1,7 @@
-### Hi there 👋
+### About Me
+1. I am a third year university student.
+2. I'm studying to become a web or mobile front-end engineer.
+3. The technologies I'm currently studying are React and Swift.
 
 <!--
 **nki1121/nki1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
