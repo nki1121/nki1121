@@ -4,7 +4,7 @@
 3. The technologies I'm currently studying are React.
 
 ### Programming Languages
-![](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,python)
+![](https://skillicons.dev/icons?i=html,css,javascript,typescript,c,java,python,swift)
 
 ### Frameworks and Library
 ![](https://skillicons.dev/icons?i=flutter,react)
