@@ -9,4 +9,4 @@
 ![](https://skillicons.dev/icons?i=flutter,react) 
 
 ### Dev Tools etc 
-![](https://skillicons.dev/icons?i=github,figma,notion)
+![](https://skillicons.dev/icons?i=github,figma,notion) 
