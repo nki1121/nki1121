@@ -6,4 +6,4 @@
 ![](https://skillicons.dev/icons?i=c,java,swift)
 
 ### Dev Tools etc 
-![](https://skillicons.dev/icons?i=canva,github,figma,notion) 
+![](https://skillicons.dev/icons?i=github,figma,notion) 
